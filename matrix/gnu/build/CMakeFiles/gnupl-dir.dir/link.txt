@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-dir.a CMakeFiles/gnupl-dir.dir/gnupl-dir.cpp.o
+/usr/bin/ranlib libgnupl-dir.a
