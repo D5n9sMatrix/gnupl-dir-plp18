@@ -1,5 +1,5 @@
 # welcome gnupl-dir
-appendix guides output winds vectors circles to cold method ambients logic of refresh rain to mechanism of platform used to make the build applicative of form in workspace directory to folder states cold fresh climatic sun string light connection the ambient string cold hot ambient fresh climatic.
+appendix guides output winds vectors circles to cold method ambients logic of Continue rain to mechanism of platform used to make the build applicative of form in workspace directory to folder states cold fresh climatic sun string light connection the ambient string cold hot ambient fresh climatic.
 ```gnuplot
 #!/usr/bin/gnuplot
 #
